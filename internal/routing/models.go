@@ -11,3 +11,5 @@ type GameLog struct {
 	Message     string
 	Username    string
 }
+
+
